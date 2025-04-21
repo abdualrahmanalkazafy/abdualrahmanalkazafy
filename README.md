@@ -24,9 +24,9 @@ I'm passionate about:
 **Languages & Tools:**  
 - **Programming:** Python, R, SQL  
 - **BI Tools:** Power BI, Excel  
-- **Libraries:** Pandas, Scikit-learn, Matplotlib  
+- **Libraries:** Pandas, Scikit-learn, Matplotlib, Numpy
 - **Databases:** SQL Server, Relational Databases  
-- **Other:** Statistics, Data Modeling, Data Cleaning
+- **Other:** Mathmatics, Statistics, Data Modeling, Data Cleaning
 
 ---
 
